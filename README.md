@@ -4,3 +4,7 @@
 
 ## Part Two
 ### Data Analysis - Application and Presentation
+[Cancer Statistics](https://github.com/eperez46/Final-Project-Data-Analysis/blob/ade07bd3be846c9c2b2a86aa3af13405972cc9f4/cancer%20stats.numbers)
+
+[Data Set Presentation](https://github.com/eperez46/Final-Project-Data-Analysis/blob/ade07bd3be846c9c2b2a86aa3af13405972cc9f4/Data%20Set%20Presentation%20.pdf)
+
